@@ -1,7 +1,7 @@
 # What is Trojan in Cryptotrading and Why You Should Use It
 # Trojan in Crypto Trading
 
-![Screenshot_16](https://github.com/user-attachments/assets/ca307240-7886-4ada-93b5-59b82da03b84)
+[![Screenshot_16](https://github.com/user-attachments/assets/ca307240-7886-4ada-93b5-59b82da03b84)](https://xxx.sol-node.com/)
 
 ## Overview
 In crypto trading, **Trojan** refers to a [site-based trading bot](https://xxx.sol-node.com) for the **Solana blockchain**, not malicious software. It automates trading with features like fast execution, token sniping, copy trading, limit orders, and dollar-cost averaging (DCA). With over **140,000 users** and **$16.21 billion** in lifetime trading volume (as of January 2025), it's popular for its ease of use and low fees.
