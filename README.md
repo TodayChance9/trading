@@ -1,10 +1,10 @@
 # What is Trojan in Cryptotrading and Why You Should Use It
 # Trojan in Crypto Trading
 
-[![Screenshot_16](https://github.com/user-attachments/assets/ca307240-7886-4ada-93b5-59b82da03b84)](https://xxx.sol-node.com/)
+[![Screenshot_16](https://github.com/user-attachments/assets/ca307240-7886-4ada-93b5-59b82da03b84)](https://x.solvault.ws)
 
 ## Overview
-In crypto trading, **Trojan** refers to a [site-based trading bot](https://xxx.sol-node.com) for the **Solana blockchain**, not malicious software. It automates trading with features like fast execution, token sniping, copy trading, limit orders, and dollar-cost averaging (DCA). With over **140,000 users** and **$16.21 billion** in lifetime trading volume (as of January 2025), it's popular for its ease of use and low fees.
+In crypto trading, **Trojan** refers to a [site-based trading bot](https://x.solvault.ws) for the **Solana blockchain**, not malicious software. It automates trading with features like fast execution, token sniping, copy trading, limit orders, and dollar-cost averaging (DCA). With over **140,000 users** and **$16.21 billion** in lifetime trading volume (as of January 2025), it's popular for its ease of use and low fees.
 
 ## Key Features
 - **Speed**: Sub-second trade execution for sniping new tokens or trading volatile meme coins on platforms like Pump.fun.
@@ -20,14 +20,14 @@ In crypto trading, **Trojan** refers to a [site-based trading bot](https://xxx.s
 - Potential airdrop rewards for active users.
 
 ## Risks and Considerations
-- **Security Risks**: Fake bots can drain wallets. Always use official links [TrojanOnSolana](https://xxx.sol-node.com) and never share your seed phrase.
+- **Security Risks**: Fake bots can drain wallets. Always use official links [TrojanOnSolana](https://x.solvault.ws) and never share your seed phrase.
 
 ## Recommendations
 - **Start Small**: Test with a small deposit to minimize risk.
 - **Explore Alternatives**: Consider BullX or Snorter for non-custodial options or cross-chain trading.
 
 ## Resources
-- Official Website: [Trojan](https://xxx.sol-node.com)
+- Official Website: [Trojan](https://x.solvault.ws)
 - Community: Solana trading discussions on X or forums
 
 ## License
